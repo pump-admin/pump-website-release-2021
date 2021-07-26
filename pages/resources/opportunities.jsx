@@ -7,7 +7,7 @@ export default function Opportunities() {
       <Head>
         <title>PuMP</title>
       </Head>
-      <PageLayout>hello</PageLayout>
+      <PageLayout>opportunities</PageLayout>
     </div>
   );
 }
